@@ -1,1 +1,2 @@
-body {background-color: aqua;}
+.header {background-image: url(../img/img/pattern.png);background-color: cornflowerblue;}
+.logo {width: 200px; height: auto; margin: 10px; padding-top: 105px;}

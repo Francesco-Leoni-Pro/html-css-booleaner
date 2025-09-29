@@ -1,2 +1,10 @@
-.header {background-image: url(../img/img/pattern.png);background-color: cornflowerblue;}
-.logo {width: 200px; height: auto; margin: 10px; padding-top: 105px;}
+.hero {background-image: url(../img/img/pattern.png);
+    background-color: cornflowerblue;}
+
+.logo {width: 200px; 
+    height: auto; 
+    margin: 10px; 
+    padding-top: 105px;}
+    
+.grigio {color: gray;}
+.azzurro {color: aqua;}
